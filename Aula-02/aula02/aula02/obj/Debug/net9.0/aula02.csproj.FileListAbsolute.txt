@@ -1,0 +1,15 @@
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\bin\Debug\net9.0\aula02.exe
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\bin\Debug\net9.0\aula02.deps.json
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\bin\Debug\net9.0\aula02.runtimeconfig.json
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\bin\Debug\net9.0\aula02.dll
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\bin\Debug\net9.0\aula02.pdb
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\obj\Debug\net9.0\aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\obj\Debug\net9.0\aula02.AssemblyInfoInputs.cache
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\obj\Debug\net9.0\aula02.AssemblyInfo.cs
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\obj\Debug\net9.0\aula02.csproj.CoreCompileInputs.cache
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\obj\Debug\net9.0\aula02.sourcelink.json
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\obj\Debug\net9.0\aula02.dll
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\obj\Debug\net9.0\refint\aula02.dll
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\obj\Debug\net9.0\aula02.pdb
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\obj\Debug\net9.0\aula02.genruntimeconfig.cache
+C:\Users\caua.mgomes\source\repos\introducao-ao-csharp\Aula-02\aula02\aula02\obj\Debug\net9.0\ref\aula02.dll
