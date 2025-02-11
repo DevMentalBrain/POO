@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\caua.mgomes\\source\\repos\\introducao-ao-c#\\Intro-C#\\",
+  "WorkspaceRootPath": "C:\\Users\\caua.mgomes\\source\\repos\\introducao-ao-c#\\Introdu-o-ao-C-\\Intro-C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7D57BEA-3E29-4332-9D25-4AF18C041EB9}|Intro-C#\\Intro-C#.csproj|c:\\users\\caua.mgomes\\source\\repos\\introducao-ao-c#\\intro-c#\\intro-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7D57BEA-3E29-4332-9D25-4AF18C041EB9}|Intro-C#\\Intro-C#.csproj|c:\\users\\caua.mgomes\\source\\repos\\introducao-ao-c#\\introdu-o-ao-c-\\intro-c#\\intro-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7D57BEA-3E29-4332-9D25-4AF18C041EB9}|Intro-C#\\Intro-C#.csproj|solutionrelative:intro-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\caua.mgomes\\source\\repos\\introducao-ao-c#\\Intro-C#\\Intro-C#\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\caua.mgomes\\source\\repos\\introducao-ao-c#\\Introdu-o-ao-C-\\Intro-C#\\Intro-C#\\Program.cs",
               "RelativeDocumentMoniker": "Intro-C#\\Program.cs",
-              "ToolTip": "C:\\Users\\caua.mgomes\\source\\repos\\introducao-ao-c#\\Intro-C#\\Intro-C#\\Program.cs",
+              "ToolTip": "C:\\Users\\caua.mgomes\\source\\repos\\introducao-ao-c#\\Introdu-o-ao-C-\\Intro-C#\\Intro-C#\\Program.cs",
               "RelativeToolTip": "Intro-C#\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T23:49:40.632Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
