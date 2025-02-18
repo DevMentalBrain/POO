@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Intro-Csharp",
-    "\\Intro-Csharp\\Intro-C#"
+    "\\Intro-Csharp\\Intro-C#",
+    "\\matriz",
+    "\\matriz\\exercicio1",
+    "\\matriz\\exercicio1\\exercicio1"
   ],
-  "SelectedNode": "\\Intro-Csharp\\Intro-C#\\Program.cs",
+  "SelectedNode": "\\matriz\\exercicio1\\exercicio1",
   "PreviewInSolutionExplorer": false
 }

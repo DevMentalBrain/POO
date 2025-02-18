@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("soma-media-alunos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+454dda6898750b46e92516606fc46099a25c16e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d0549f95af813793190b628ad525a9af89dd814")]
 [assembly: System.Reflection.AssemblyProductAttribute("soma-media-alunos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("soma-media-alunos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
