@@ -1,0 +1,15 @@
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\bin\Debug\net9.0\1000-carros.exe
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\bin\Debug\net9.0\1000-carros.deps.json
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\bin\Debug\net9.0\1000-carros.runtimeconfig.json
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\bin\Debug\net9.0\1000-carros.dll
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\bin\Debug\net9.0\1000-carros.pdb
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\obj\Debug\net9.0\1000-carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\obj\Debug\net9.0\1000-carros.AssemblyInfoInputs.cache
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\obj\Debug\net9.0\1000-carros.AssemblyInfo.cs
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\obj\Debug\net9.0\1000-carros.csproj.CoreCompileInputs.cache
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\obj\Debug\net9.0\1000-carros.sourcelink.json
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\obj\Debug\net9.0\1000-carros.dll
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\obj\Debug\net9.0\refint\1000-carros.dll
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\obj\Debug\net9.0\1000-carros.pdb
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\obj\Debug\net9.0\1000-carros.genruntimeconfig.cache
+C:\Users\caua.mgomes\source\repos\POO\aplicacoes-poo\carro-ex2\1000-carros\1000-carros\obj\Debug\net9.0\ref\1000-carros.dll
