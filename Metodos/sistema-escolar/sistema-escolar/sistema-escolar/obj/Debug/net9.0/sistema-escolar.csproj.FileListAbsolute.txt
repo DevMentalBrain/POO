@@ -1,0 +1,15 @@
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\bin\Debug\net9.0\sistema-escolar.exe
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\bin\Debug\net9.0\sistema-escolar.deps.json
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\bin\Debug\net9.0\sistema-escolar.runtimeconfig.json
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\bin\Debug\net9.0\sistema-escolar.dll
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\bin\Debug\net9.0\sistema-escolar.pdb
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\obj\Debug\net9.0\sistema-escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\obj\Debug\net9.0\sistema-escolar.AssemblyInfoInputs.cache
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\obj\Debug\net9.0\sistema-escolar.AssemblyInfo.cs
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\obj\Debug\net9.0\sistema-escolar.csproj.CoreCompileInputs.cache
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\obj\Debug\net9.0\sistema-escolar.sourcelink.json
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\obj\Debug\net9.0\sistema-escolar.dll
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\obj\Debug\net9.0\refint\sistema-escolar.dll
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\obj\Debug\net9.0\sistema-escolar.pdb
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\obj\Debug\net9.0\sistema-escolar.genruntimeconfig.cache
+C:\Users\caua.mgomes\source\repos\POO\Metodos\sistema-escolar\sistema-escolar\sistema-escolar\obj\Debug\net9.0\ref\sistema-escolar.dll
