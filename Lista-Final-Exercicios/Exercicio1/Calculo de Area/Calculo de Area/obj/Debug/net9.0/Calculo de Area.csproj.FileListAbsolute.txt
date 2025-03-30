@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\obj\Debug\net9.0\Calculo de Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\obj\Debug\net9.0\Calculo de Area.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\obj\Debug\net9.0\Calculo de Area.AssemblyInfo.cs
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\obj\Debug\net9.0\Calculo de Area.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\obj\Debug\net9.0\Calculo de Area.sourcelink.json
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\bin\Debug\net9.0\Calculo de Area.exe
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\bin\Debug\net9.0\Calculo de Area.deps.json
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\bin\Debug\net9.0\Calculo de Area.runtimeconfig.json
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\bin\Debug\net9.0\Calculo de Area.dll
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\bin\Debug\net9.0\Calculo de Area.pdb
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\obj\Debug\net9.0\Calculo de Area.dll
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\obj\Debug\net9.0\refint\Calculo de Area.dll
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\obj\Debug\net9.0\Calculo de Area.pdb
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\obj\Debug\net9.0\Calculo de Area.genruntimeconfig.cache
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio1\Calculo de Area\Calculo de Area\obj\Debug\net9.0\ref\Calculo de Area.dll

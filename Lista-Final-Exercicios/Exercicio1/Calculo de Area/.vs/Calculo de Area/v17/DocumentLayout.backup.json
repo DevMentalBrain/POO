@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio1\\Calculo de Area\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C79787E8-5EE9-49B8-A4B6-597163DDD0AF}|Calculo de Area\\Calculo de Area.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\estudos faculdade\\poo\\poo\\lista-final-exercicios\\exercicio1\\calculo de area\\calculo de area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79787E8-5EE9-49B8-A4B6-597163DDD0AF}|Calculo de Area\\Calculo de Area.csproj|solutionrelative:calculo de area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79787E8-5EE9-49B8-A4B6-597163DDD0AF}|Calculo de Area\\Calculo de Area.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\estudos faculdade\\poo\\poo\\lista-final-exercicios\\exercicio1\\calculo de area\\calculo de area\\classes\\calculadorageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79787E8-5EE9-49B8-A4B6-597163DDD0AF}|Calculo de Area\\Calculo de Area.csproj|solutionrelative:calculo de area\\classes\\calculadorageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79787E8-5EE9-49B8-A4B6-597163DDD0AF}|Calculo de Area\\Calculo de Area.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\estudos faculdade\\poo\\poo\\lista-final-exercicios\\exercicio1\\calculo de area\\calculo de area\\classes\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79787E8-5EE9-49B8-A4B6-597163DDD0AF}|Calculo de Area\\Calculo de Area.csproj|solutionrelative:calculo de area\\classes\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79787E8-5EE9-49B8-A4B6-597163DDD0AF}|Calculo de Area\\Calculo de Area.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\estudos faculdade\\poo\\poo\\lista-final-exercicios\\exercicio1\\calculo de area\\calculo de area\\classes\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79787E8-5EE9-49B8-A4B6-597163DDD0AF}|Calculo de Area\\Calculo de Area.csproj|solutionrelative:calculo de area\\classes\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 3,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio1\\Calculo de Area\\Calculo de Area\\Classes\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Calculo de Area\\Classes\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio1\\Calculo de Area\\Calculo de Area\\Classes\\Triangulo.cs",
+              "RelativeToolTip": "Calculo de Area\\Classes\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:54:49.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio1\\Calculo de Area\\Calculo de Area\\Classes\\Quadrado.cs",
+              "RelativeDocumentMoniker": "Calculo de Area\\Classes\\Quadrado.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio1\\Calculo de Area\\Calculo de Area\\Classes\\Quadrado.cs",
+              "RelativeToolTip": "Calculo de Area\\Classes\\Quadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:53:41.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio1\\Calculo de Area\\Calculo de Area\\Classes\\CalculadoraGeometrica.cs",
+              "RelativeDocumentMoniker": "Calculo de Area\\Classes\\CalculadoraGeometrica.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio1\\Calculo de Area\\Calculo de Area\\Classes\\CalculadoraGeometrica.cs",
+              "RelativeToolTip": "Calculo de Area\\Classes\\CalculadoraGeometrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:41:56.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio1\\Calculo de Area\\Calculo de Area\\Program.cs",
+              "RelativeDocumentMoniker": "Calculo de Area\\Program.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio1\\Calculo de Area\\Calculo de Area\\Program.cs",
+              "RelativeToolTip": "Calculo de Area\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:49:54.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 610,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
