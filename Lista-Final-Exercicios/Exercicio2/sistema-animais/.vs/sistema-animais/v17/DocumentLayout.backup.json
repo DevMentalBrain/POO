@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio2\\sistema-animais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C51F363-68CC-450C-8A9B-AC5405A67022}|sistema-animais\\sistema-animais.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\estudos faculdade\\poo\\poo\\lista-final-exercicios\\exercicio2\\sistema-animais\\sistema-animais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C51F363-68CC-450C-8A9B-AC5405A67022}|sistema-animais\\sistema-animais.csproj|solutionrelative:sistema-animais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C51F363-68CC-450C-8A9B-AC5405A67022}|sistema-animais\\sistema-animais.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\estudos faculdade\\poo\\poo\\lista-final-exercicios\\exercicio2\\sistema-animais\\sistema-animais\\classes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C51F363-68CC-450C-8A9B-AC5405A67022}|sistema-animais\\sistema-animais.csproj|solutionrelative:sistema-animais\\classes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C51F363-68CC-450C-8A9B-AC5405A67022}|sistema-animais\\sistema-animais.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\estudos faculdade\\poo\\poo\\lista-final-exercicios\\exercicio2\\sistema-animais\\sistema-animais\\classes\\domestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C51F363-68CC-450C-8A9B-AC5405A67022}|sistema-animais\\sistema-animais.csproj|solutionrelative:sistema-animais\\classes\\domestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C51F363-68CC-450C-8A9B-AC5405A67022}|sistema-animais\\sistema-animais.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\estudos faculdade\\poo\\poo\\lista-final-exercicios\\exercicio2\\sistema-animais\\sistema-animais\\classes\\selvagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C51F363-68CC-450C-8A9B-AC5405A67022}|sistema-animais\\sistema-animais.csproj|solutionrelative:sistema-animais\\classes\\selvagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C51F363-68CC-450C-8A9B-AC5405A67022}|sistema-animais\\sistema-animais.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\estudos faculdade\\poo\\poo\\lista-final-exercicios\\exercicio2\\sistema-animais\\sistema-animais\\classes\\peixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C51F363-68CC-450C-8A9B-AC5405A67022}|sistema-animais\\sistema-animais.csproj|solutionrelative:sistema-animais\\classes\\peixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 5,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Peixe.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio2\\sistema-animais\\sistema-animais\\Classes\\Peixe.cs",
+              "RelativeDocumentMoniker": "sistema-animais\\Classes\\Peixe.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio2\\sistema-animais\\sistema-animais\\Classes\\Peixe.cs",
+              "RelativeToolTip": "sistema-animais\\Classes\\Peixe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:11:14.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Selvagem.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio2\\sistema-animais\\sistema-animais\\Classes\\Selvagem.cs",
+              "RelativeDocumentMoniker": "sistema-animais\\Classes\\Selvagem.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio2\\sistema-animais\\sistema-animais\\Classes\\Selvagem.cs",
+              "RelativeToolTip": "sistema-animais\\Classes\\Selvagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:03:36.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Domestico.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio2\\sistema-animais\\sistema-animais\\Classes\\Domestico.cs",
+              "RelativeDocumentMoniker": "sistema-animais\\Classes\\Domestico.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio2\\sistema-animais\\sistema-animais\\Classes\\Domestico.cs",
+              "RelativeToolTip": "sistema-animais\\Classes\\Domestico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:00:15.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio2\\sistema-animais\\sistema-animais\\Classes\\Animal.cs",
+              "RelativeDocumentMoniker": "sistema-animais\\Classes\\Animal.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio2\\sistema-animais\\sistema-animais\\Classes\\Animal.cs",
+              "RelativeToolTip": "sistema-animais\\Classes\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:52:33.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio2\\sistema-animais\\sistema-animais\\Program.cs",
+              "RelativeDocumentMoniker": "sistema-animais\\Program.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio2\\sistema-animais\\sistema-animais\\Program.cs*",
+              "RelativeToolTip": "sistema-animais\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:50:52.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 19,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
