@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio7\\partida-volei\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B12973B-0852-41B8-9323-03FA4726978E}|partida-volei\\partida-volei.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\estudos faculdade\\poo\\poo\\lista-final-exercicios\\exercicio7\\partida-volei\\partida-volei\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B12973B-0852-41B8-9323-03FA4726978E}|partida-volei\\partida-volei.csproj|solutionrelative:partida-volei\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B12973B-0852-41B8-9323-03FA4726978E}|partida-volei\\partida-volei.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\estudos faculdade\\poo\\poo\\lista-final-exercicios\\exercicio7\\partida-volei\\partida-volei\\classes\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B12973B-0852-41B8-9323-03FA4726978E}|partida-volei\\partida-volei.csproj|solutionrelative:partida-volei\\classes\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B12973B-0852-41B8-9323-03FA4726978E}|partida-volei\\partida-volei.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\estudos faculdade\\poo\\poo\\lista-final-exercicios\\exercicio7\\partida-volei\\partida-volei\\classes\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B12973B-0852-41B8-9323-03FA4726978E}|partida-volei\\partida-volei.csproj|solutionrelative:partida-volei\\classes\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B12973B-0852-41B8-9323-03FA4726978E}|partida-volei\\partida-volei.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\estudos faculdade\\poo\\poo\\lista-final-exercicios\\exercicio7\\partida-volei\\partida-volei\\classes\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B12973B-0852-41B8-9323-03FA4726978E}|partida-volei\\partida-volei.csproj|solutionrelative:partida-volei\\classes\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 5,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jogador.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio7\\partida-volei\\partida-volei\\Classes\\Jogador.cs",
+              "RelativeDocumentMoniker": "partida-volei\\Classes\\Jogador.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio7\\partida-volei\\partida-volei\\Classes\\Jogador.cs",
+              "RelativeToolTip": "partida-volei\\Classes\\Jogador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:14:02.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio7\\partida-volei\\partida-volei\\Classes\\Time.cs",
+              "RelativeDocumentMoniker": "partida-volei\\Classes\\Time.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio7\\partida-volei\\partida-volei\\Classes\\Time.cs",
+              "RelativeToolTip": "partida-volei\\Classes\\Time.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:13:52.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Partida.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio7\\partida-volei\\partida-volei\\Classes\\Partida.cs",
+              "RelativeDocumentMoniker": "partida-volei\\Classes\\Partida.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio7\\partida-volei\\partida-volei\\Classes\\Partida.cs",
+              "RelativeToolTip": "partida-volei\\Classes\\Partida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:12:36.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio7\\partida-volei\\partida-volei\\Program.cs",
+              "RelativeDocumentMoniker": "partida-volei\\Program.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\Estudos Faculdade\\POO\\POO\\Lista-Final-Exercicios\\Exercicio7\\partida-volei\\partida-volei\\Program.cs*",
+              "RelativeToolTip": "partida-volei\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:11:24.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 19,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

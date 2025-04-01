@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\bin\Debug\net9.0\partida-volei.exe
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\bin\Debug\net9.0\partida-volei.deps.json
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\bin\Debug\net9.0\partida-volei.runtimeconfig.json
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\bin\Debug\net9.0\partida-volei.dll
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\bin\Debug\net9.0\partida-volei.pdb
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\obj\Debug\net9.0\partida-volei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\obj\Debug\net9.0\partida-volei.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\obj\Debug\net9.0\partida-volei.AssemblyInfo.cs
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\obj\Debug\net9.0\partida-volei.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\obj\Debug\net9.0\partida-volei.sourcelink.json
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\obj\Debug\net9.0\partida-volei.dll
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\obj\Debug\net9.0\refint\partida-volei.dll
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\obj\Debug\net9.0\partida-volei.pdb
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\obj\Debug\net9.0\partida-volei.genruntimeconfig.cache
+C:\Users\T-GAMER\OneDrive\Documentos\Estudos Faculdade\POO\POO\Lista-Final-Exercicios\Exercicio7\partida-volei\partida-volei\obj\Debug\net9.0\ref\partida-volei.dll
