@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\TreinoProva\\sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252BC9FF-D148-4CAC-8288-21AA869554D4}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\treinoprova\\sistema\\sistema\\classes\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252BC9FF-D148-4CAC-8288-21AA869554D4}|sistema\\sistema.csproj|solutionrelative:sistema\\classes\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252BC9FF-D148-4CAC-8288-21AA869554D4}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\treinoprova\\sistema\\sistema\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252BC9FF-D148-4CAC-8288-21AA869554D4}|sistema\\sistema.csproj|solutionrelative:sistema\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252BC9FF-D148-4CAC-8288-21AA869554D4}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\treinoprova\\sistema\\sistema\\classes\\eletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252BC9FF-D148-4CAC-8288-21AA869554D4}|sistema\\sistema.csproj|solutionrelative:sistema\\classes\\eletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252BC9FF-D148-4CAC-8288-21AA869554D4}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\treinoprova\\sistema\\sistema\\classes\\roupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252BC9FF-D148-4CAC-8288-21AA869554D4}|sistema\\sistema.csproj|solutionrelative:sistema\\classes\\roupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252BC9FF-D148-4CAC-8288-21AA869554D4}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\treinoprova\\sistema\\sistema\\classes\\alimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252BC9FF-D148-4CAC-8288-21AA869554D4}|sistema\\sistema.csproj|solutionrelative:sistema\\classes\\alimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252BC9FF-D148-4CAC-8288-21AA869554D4}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\treinoprova\\sistema\\sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252BC9FF-D148-4CAC-8288-21AA869554D4}|sistema\\sistema.csproj|solutionrelative:sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alimento.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\TreinoProva\\sistema\\sistema\\Classes\\Alimento.cs",
+              "RelativeDocumentMoniker": "sistema\\Classes\\Alimento.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\TreinoProva\\sistema\\sistema\\Classes\\Alimento.cs",
+              "RelativeToolTip": "sistema\\Classes\\Alimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:52:56.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Roupa.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\TreinoProva\\sistema\\sistema\\Classes\\Roupa.cs",
+              "RelativeDocumentMoniker": "sistema\\Classes\\Roupa.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\TreinoProva\\sistema\\sistema\\Classes\\Roupa.cs",
+              "RelativeToolTip": "sistema\\Classes\\Roupa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:51:25.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Eletronico.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\TreinoProva\\sistema\\sistema\\Classes\\Eletronico.cs",
+              "RelativeDocumentMoniker": "sistema\\Classes\\Eletronico.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\TreinoProva\\sistema\\sistema\\Classes\\Eletronico.cs",
+              "RelativeToolTip": "sistema\\Classes\\Eletronico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:48:57.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\TreinoProva\\sistema\\sistema\\Classes\\Produto.cs",
+              "RelativeDocumentMoniker": "sistema\\Classes\\Produto.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\TreinoProva\\sistema\\sistema\\Classes\\Produto.cs",
+              "RelativeToolTip": "sistema\\Classes\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:38:59.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Loja.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\TreinoProva\\sistema\\sistema\\Classes\\Loja.cs",
+              "RelativeDocumentMoniker": "sistema\\Classes\\Loja.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\TreinoProva\\sistema\\sistema\\Classes\\Loja.cs*",
+              "RelativeToolTip": "sistema\\Classes\\Loja.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:38:20.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\TreinoProva\\sistema\\sistema\\Program.cs",
+              "RelativeDocumentMoniker": "sistema\\Program.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\TreinoProva\\sistema\\sistema\\Program.cs",
+              "RelativeToolTip": "sistema\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:37:23.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

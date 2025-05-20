@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 2\\sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CED464-1E9E-421F-A0A7-E6D920CDDD1E}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\lista final\\exercicio 2\\sistema\\sistema\\interfaces\\desenho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CED464-1E9E-421F-A0A7-E6D920CDDD1E}|sistema\\sistema.csproj|solutionrelative:sistema\\interfaces\\desenho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CED464-1E9E-421F-A0A7-E6D920CDDD1E}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\lista final\\exercicio 2\\sistema\\sistema\\classes\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CED464-1E9E-421F-A0A7-E6D920CDDD1E}|sistema\\sistema.csproj|solutionrelative:sistema\\classes\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CED464-1E9E-421F-A0A7-E6D920CDDD1E}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\lista final\\exercicio 2\\sistema\\sistema\\classes\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CED464-1E9E-421F-A0A7-E6D920CDDD1E}|sistema\\sistema.csproj|solutionrelative:sistema\\classes\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CED464-1E9E-421F-A0A7-E6D920CDDD1E}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\lista final\\exercicio 2\\sistema\\sistema\\classes\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CED464-1E9E-421F-A0A7-E6D920CDDD1E}|sistema\\sistema.csproj|solutionrelative:sistema\\classes\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CED464-1E9E-421F-A0A7-E6D920CDDD1E}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\lista final\\exercicio 2\\sistema\\sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CED464-1E9E-421F-A0A7-E6D920CDDD1E}|sistema\\sistema.csproj|solutionrelative:sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CED464-1E9E-421F-A0A7-E6D920CDDD1E}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\lista final\\exercicio 2\\sistema\\sistema\\classes\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CED464-1E9E-421F-A0A7-E6D920CDDD1E}|sistema\\sistema.csproj|solutionrelative:sistema\\classes\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Desenho.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 2\\sistema\\sistema\\Interfaces\\Desenho.cs",
+              "RelativeDocumentMoniker": "sistema\\Interfaces\\Desenho.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 2\\sistema\\sistema\\Interfaces\\Desenho.cs",
+              "RelativeToolTip": "sistema\\Interfaces\\Desenho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:40:41.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 2\\sistema\\sistema\\Classes\\Triangulo.cs",
+              "RelativeDocumentMoniker": "sistema\\Classes\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 2\\sistema\\sistema\\Classes\\Triangulo.cs",
+              "RelativeToolTip": "sistema\\Classes\\Triangulo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:32:37.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 2\\sistema\\sistema\\Classes\\Quadrado.cs",
+              "RelativeDocumentMoniker": "sistema\\Classes\\Quadrado.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 2\\sistema\\sistema\\Classes\\Quadrado.cs",
+              "RelativeToolTip": "sistema\\Classes\\Quadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:31:37.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 2\\sistema\\sistema\\Classes\\Circulo.cs",
+              "RelativeDocumentMoniker": "sistema\\Classes\\Circulo.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 2\\sistema\\sistema\\Classes\\Circulo.cs",
+              "RelativeToolTip": "sistema\\Classes\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:29:54.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FiguraGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 2\\sistema\\sistema\\Classes\\FiguraGeometrica.cs",
+              "RelativeDocumentMoniker": "sistema\\Classes\\FiguraGeometrica.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 2\\sistema\\sistema\\Classes\\FiguraGeometrica.cs",
+              "RelativeToolTip": "sistema\\Classes\\FiguraGeometrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:19:29.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 2\\sistema\\sistema\\Program.cs",
+              "RelativeDocumentMoniker": "sistema\\Program.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 2\\sistema\\sistema\\Program.cs",
+              "RelativeToolTip": "sistema\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:16:06.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 9,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

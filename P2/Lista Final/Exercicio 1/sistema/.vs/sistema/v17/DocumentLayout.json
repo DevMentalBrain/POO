@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 1\\sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3272F229-4EBC-4B27-B8C5-597A045C3D5C}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\lista final\\exercicio 1\\sistema\\sistema\\interfaces\\iaumentarsalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3272F229-4EBC-4B27-B8C5-597A045C3D5C}|sistema\\sistema.csproj|solutionrelative:sistema\\interfaces\\iaumentarsalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3272F229-4EBC-4B27-B8C5-597A045C3D5C}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\lista final\\exercicio 1\\sistema\\sistema\\classes\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3272F229-4EBC-4B27-B8C5-597A045C3D5C}|sistema\\sistema.csproj|solutionrelative:sistema\\classes\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3272F229-4EBC-4B27-B8C5-597A045C3D5C}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\lista final\\exercicio 1\\sistema\\sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3272F229-4EBC-4B27-B8C5-597A045C3D5C}|sistema\\sistema.csproj|solutionrelative:sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3272F229-4EBC-4B27-B8C5-597A045C3D5C}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\lista final\\exercicio 1\\sistema\\sistema\\classes\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3272F229-4EBC-4B27-B8C5-597A045C3D5C}|sistema\\sistema.csproj|solutionrelative:sistema\\classes\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3272F229-4EBC-4B27-B8C5-597A045C3D5C}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\lista final\\exercicio 1\\sistema\\sistema\\classes\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3272F229-4EBC-4B27-B8C5-597A045C3D5C}|sistema\\sistema.csproj|solutionrelative:sistema\\classes\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3272F229-4EBC-4B27-B8C5-597A045C3D5C}|sistema\\sistema.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\poo\\poo\\p2\\lista final\\exercicio 1\\sistema\\sistema\\classes\\funcionarioregular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3272F229-4EBC-4B27-B8C5-597A045C3D5C}|sistema\\sistema.csproj|solutionrelative:sistema\\classes\\funcionarioregular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 1\\sistema\\sistema\\Program.cs",
+              "RelativeDocumentMoniker": "sistema\\Program.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 1\\sistema\\sistema\\Program.cs",
+              "RelativeToolTip": "sistema\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:37:34.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAumentarSalario.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 1\\sistema\\sistema\\Interfaces\\IAumentarSalario.cs",
+              "RelativeDocumentMoniker": "sistema\\Interfaces\\IAumentarSalario.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 1\\sistema\\sistema\\Interfaces\\IAumentarSalario.cs",
+              "RelativeToolTip": "sistema\\Interfaces\\IAumentarSalario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:16:55.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Diretor.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 1\\sistema\\sistema\\Classes\\Diretor.cs",
+              "RelativeDocumentMoniker": "sistema\\Classes\\Diretor.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 1\\sistema\\sistema\\Classes\\Diretor.cs",
+              "RelativeToolTip": "sistema\\Classes\\Diretor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:09:39.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 1\\sistema\\sistema\\Classes\\Gerente.cs",
+              "RelativeDocumentMoniker": "sistema\\Classes\\Gerente.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 1\\sistema\\sistema\\Classes\\Gerente.cs",
+              "RelativeToolTip": "sistema\\Classes\\Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:06:33.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FuncionarioRegular.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 1\\sistema\\sistema\\Classes\\FuncionarioRegular.cs",
+              "RelativeDocumentMoniker": "sistema\\Classes\\FuncionarioRegular.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 1\\sistema\\sistema\\Classes\\FuncionarioRegular.cs",
+              "RelativeToolTip": "sistema\\Classes\\FuncionarioRegular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:04:20.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 1\\sistema\\sistema\\Classes\\Funcionario.cs",
+              "RelativeDocumentMoniker": "sistema\\Classes\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\OneDrive\\Documentos\\POO\\POO\\P2\\Lista Final\\Exercicio 1\\sistema\\sistema\\Classes\\Funcionario.cs",
+              "RelativeToolTip": "sistema\\Classes\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:59:29.187Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 9,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

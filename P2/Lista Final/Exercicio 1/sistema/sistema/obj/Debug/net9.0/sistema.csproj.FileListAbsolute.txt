@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\bin\Debug\net9.0\sistema.exe
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\bin\Debug\net9.0\sistema.deps.json
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\bin\Debug\net9.0\sistema.runtimeconfig.json
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\bin\Debug\net9.0\sistema.dll
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\bin\Debug\net9.0\sistema.pdb
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\obj\Debug\net9.0\sistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\obj\Debug\net9.0\sistema.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\obj\Debug\net9.0\sistema.AssemblyInfo.cs
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\obj\Debug\net9.0\sistema.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\obj\Debug\net9.0\sistema.sourcelink.json
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\obj\Debug\net9.0\sistema.dll
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\obj\Debug\net9.0\refint\sistema.dll
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\obj\Debug\net9.0\sistema.pdb
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\obj\Debug\net9.0\sistema.genruntimeconfig.cache
+C:\Users\T-GAMER\OneDrive\Documentos\POO\POO\P2\Lista Final\Exercicio 1\sistema\sistema\obj\Debug\net9.0\ref\sistema.dll
